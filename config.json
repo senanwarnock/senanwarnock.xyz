@@ -1,16 +1,16 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/senanwarnock/senanwarnock.xyz/main/README.md",
+  "title": "Senan Warnock's Website",
+  "name": "Senan Warnock",
+  "ascii": "cveinnt",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "senanwarnock",
+    "linkedin": "senan-warnock-7732a0238"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "senanw95@gmail.com",
+  "ps1_hostname": "senanwarnock.xyz",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "repo": "https://github.com/senanwarnock/senanwarnock",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
